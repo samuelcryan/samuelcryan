@@ -6,7 +6,7 @@ Building **SourceProof**: open authentication infrastructure for digital media.
 
 ## Current Work
 - 🔐 [SourceProof Protocol](https://github.com/sourceproof) - Hardware-level blockchain verification to combat deepfakes
-- 📄 Published as [prior art]([https://www.linkedin.com/pulse/invention-disclosure-camera-native-blockchain-digital-ryan-m-sc--dc3zc/]) to prevent monopolization
+- 📄 Published as [prior art](https://www.linkedin.com/pulse/invention-disclosure-camera-native-blockchain-digital-ryan-m-sc--dc3zc/) to prevent monopolization
 - 🤝 Seeking partnerships, contributors, and advisors
 
 ## Background
