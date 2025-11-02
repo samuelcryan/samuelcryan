@@ -6,12 +6,12 @@ Building **SourceProof**: open authentication infrastructure for digital media.
 
 ## Current Work
 - 🔐 [SourceProof Protocol](https://github.com/sourceproof) - Hardware-level blockchain verification to combat deepfakes
-- 📄 Published as [prior art]([linkedin-link](https://www.linkedin.com/pulse/invention-disclosure-camera-native-blockchain-digital-ryan-m-sc--dc3zc/)) to prevent monopolization
+- 📄 Published as [prior art]([https://www.linkedin.com/pulse/invention-disclosure-camera-native-blockchain-digital-ryan-m-sc--dc3zc/]) to prevent monopolization
 - 🤝 Seeking partnerships, contributors, and advisors
 
 ## Background
 - M.Sc. Semiconductor Process Engineering
-- 15+ years in optical systems, test engineering, and reliability
+- 15+ years in optical systems, energy storage, test engineering, and reliability
 - Cross-industry experience: energy storage, defense, optoelectronics, manufacturing
 
 ## Contact
