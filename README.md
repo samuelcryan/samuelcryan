@@ -1,33 +1,33 @@
-Hi there 👋
+# Hi there 👋
 
-### Samuel C. Ryan | Building Digital Trust Infrastructure
+## Samuel C. Ryan | Founder & Executive Director, The Birthmark Standard Foundation
 
-I am currently leading the launch of the **Birthmark Protocol Foundation**, an open-source initiative dedicated to creating verifiable digital authentication infrastructure.
+Building open-source infrastructure for cryptographic proof that photos came from real cameras, not AI generation.
 
----
+### 🔐 The Problem We Solve
 
-### 🔨 Current Work: The Birthmark Protocol
+Trust in photographic evidence is collapsing. Without reliable ways to distinguish real photos from AI-generated fakes, journalism loses credibility and misinformation spreads unchecked.
 
-🔐 **Mission:** Combat the deepfake crisis by establishing a **Hardware-Backed Root of Trust** for digital media.
+**Our Solution:** Hardware-backed authentication using camera sensor fingerprints + consortium blockchain maintained by mission-driven journalism organizations. Permanent, verifiable proof that specific camera hardware captured specific images. Privacy-by-design.
 
-* **Technology:** We integrate a Secure Element (HWRoT) at the point of creation and record the hash to an **immutable public blockchain** (via zkRollup integration).
-* **Status:** Building the **Phase I Proof-of-Concept (PoC)** to secure foundational grant funding.
-* **Legal:** Protocol concepts are published as **prior art** to ensure perpetual public ownership and prevent corporate monopolization.
-* **Join Us:** Actively seeking **contributors, partners, and advisors** to finalize the governance structure.
+### 🚀 Current Status: Phase 1
 
-➡️ **Visit the Project Repository:** [Link to your GitHub Birthmark repository]
+Building proof-of-concept with Raspberry Pi + camera hardware to validate the complete cryptographic pipeline.
 
----
+**Tech Stack:** Python, FastAPI, PostgreSQL, Cosmos SDK blockchain, TPM/Secure Element
+
+### 🤝 Seeking
+
+* **Coalition Partners:** Journalism organizations, fact-checking groups (e.g., RSF, NPPA, IFCN, CPJ, Bellingcat)
+* **Funding:** Assembling grant applications to Mozilla, Craig Newmark Philanthropies, Knight Foundation
 
 ### 🔬 Background
 
 * M.Sc. Semiconductor Process Engineering
-* 15+ years in optical systems, energy storage, test engineering, and reliability.
-* Cross-industry experience: energy storage, defense, optoelectronics, and manufacturing.
+* 15+ years: energy storage (ESS), thermal imaging (FLIR), aerospace quality systems
 
-### 📧 Get in Touch
+### 📧 Contact
 
-* Email: **samryan.pdx@proton.me**
-* LinkedIn: [linkedin.com/in/samuelcryan]
-
-Open to discussions about authentication standards, technical viability, and partnerships to build public good technology.
+* Email: samryan.pdx@proton.me
+* LinkedIn: [linkedin.com/in/samuelcryan](https://linkedin.com/in/samuelcryan)
+* Repo: [Birthmark-Standard/Birthmark](https://github.com/Birthmark-Standard/Birthmark)
