@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Samuel C. Ryan | Founder & Executive Director, The Birthmark Standard Foundation
+## Samuel C. Ryan | Founder & Principal Engineer, The Birthmark Standard Foundation
 
 Building open-source infrastructure for cryptographic proof that photos came from real cameras, not AI generation.
 
