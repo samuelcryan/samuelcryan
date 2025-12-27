@@ -1,45 +1,19 @@
-# Samuel C. Ryan
-**Founder & Executive Director, The Birthmark Standard Foundation**
-
-Building open-source infrastructure to combat the cynicism that comes from the flood of AI-generated images.
-
-## What I'm Building
-
-**The Birthmark Standard** - Hardware-backed photo authentication proving images came from real cameras, not AI generation.
-
-- **Camera fingerprints** as hardware roots of trust
-- **Blockchain verification** operated by trustworthy mission-driven organizations (not corporations)
-- **Privacy-by-design** architecture preventing surveillance
-- **Metadata-independent** - survives social media sharing
-
-Read more: [Birthmark Standard Repo](https://codeberg.org/birthmark/birthmark)
-
-## Current Phase
-
-**Phase 1 Prototype** - Raspberry Pi + HQ Camera + TPM demonstrating complete cryptographic pipeline from sensor capture through blockchain verification.
-
-**Tech Stack:** Python, FastAPI, PostgreSQL, Cosmos SDK, TPM/Secure Element, Cryptographic key rotation
-
-## Background
-
-- **M.Sc. Semiconductor Process Engineering** (University of Oregon)
-- **15+ years systems engineering:** Energy storage (ESS Inc), thermal imaging (FLIR Systems), aerospace quality (AS9102 FAI)
-- **Regulated industries expertise:** Where "move fast and break things" isn't acceptable
-
-## Seeking
-
-**Coalition Partners** - Journalism organizations, fact-checkers, press freedom advocates (NPPA, IFCN, CPJ, RSF, Bellingcat)
-
-**Funding** - Grant applications in progress: Mozilla Foundation, Craig Newmark Philanthropies
-
-**Technical Feedback** - Security researchers, cryptographers, privacy advocates
-
-## Contact
-
-**Email:** samryan.pdx@proton.me  
-**LinkedIn:** [linkedin.com/in/samuelcryan](https://linkedin.com/in/samuelcryan)  
-**Website:** [birthmarkstandard.org](https://birthmarkstandard.org)
-
----
-
-*All work published as Apache 2.0 to prevent monopolization of authentication infrastructure.*
+# Hi there 👋
+## Samuel C. Ryan | Founder & Principal Engineer, The Birthmark Standard Foundation
+Building open-source infrastructure for cryptographic proof that photos came from real cameras, not AI generation.
+### 🔐 The Problem We Solve
+Trust in photographic evidence is collapsing. Without reliable ways to distinguish real photos from AI-generated fakes, journalism loses credibility and misinformation spreads unchecked.
+**Our Solution:** Hardware-backed authentication using camera sensor fingerprints + consortium blockchain maintained by mission-driven journalism organizations. Permanent, verifiable proof that specific camera hardware captured specific images. Privacy-by-design.
+### 🚀 Current Status: Phase 1
+Building proof-of-concept with Raspberry Pi + camera hardware to validate the complete cryptographic pipeline.
+**Tech Stack:** Python, FastAPI, PostgreSQL, Cosmos SDK blockchain, TPM/Secure Element
+### 🤝 Seeking
+* **Coalition Partners:** Journalism organizations, fact-checking groups (e.g., RSF, NPPA, IFCN, CPJ, Bellingcat)
+* **Funding:** Assembling grant applications to Mozilla, Craig Newmark Philanthropies, Knight Foundation
+### 🔬 Background
+* M.Sc. Semiconductor Process Engineering
+* 15+ years: energy storage (ESS), thermal imaging (FLIR), aerospace quality systems
+### 📧 Contact
+* Email: samryan.pdx@proton.me
+* LinkedIn: [linkedin.com/in/samuelcryan](https://linkedin.com/in/samuelcryan)
+* Repo: [Birthmark-Standard/Birthmark](https://github.com/Birthmark-Standard/Birthmark)
