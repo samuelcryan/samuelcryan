@@ -16,4 +16,4 @@ Building proof-of-concept with Raspberry Pi + camera hardware to validate the co
 ### 📧 Contact
 * Email: samryan.pdx@proton.me
 * LinkedIn: [linkedin.com/in/samuelcryan](https://linkedin.com/in/samuelcryan)
-* Repo: [Birthmark-Standard/Birthmark](https://github.com/Birthmark-Standard/Birthmark)
+* Repos: [Birthmark-Standard/Birthmark](https://github.com/Birthmark-Standard/Birthmark) | [NovelSystems/novelsystems.github.io](https://github.com/NovelSystems/novelsystems.github.io)
