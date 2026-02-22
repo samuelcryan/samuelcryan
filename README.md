@@ -1,23 +1,28 @@
-# Hi there 👋
-## Samuel C. Ryan | Principal Engineer, Novel Systems Engineering, LLC
-Executive Director & Founder, The Birthmark Standard Foundation
-### 🔬 Background
-* M.Sc. Semiconductor Process Engineering
-* 15+ years: energy storage (ESS), thermal imaging (FLIR), aerospace quality systems
-### 🔐 The Birthmark Standard Foundation
-Building open-source infrastructure for cryptographic proof that photos came from real cameras, not AI generation.
+# Samuel C. Ryan
 
-Trust in photographic evidence is collapsing. Without reliable ways to distinguish real photos from AI-generated fakes, journalism loses credibility and misinformation spreads unchecked.
+M.Sc. Semiconductor Process Engineering with 15+ years of engineering experience spanning energy storage, thermal imaging, aerospace quality systems, and embedded hardware. Focused on first-of-its-kind product development—taking novel concepts from proof-of-concept through production.
 
-**Our Solution:** Hardware-backed authentication using camera sensor fingerprints + consortium blockchain maintained by mission-driven journalism organizations. Permanent, verifiable proof that specific camera hardware captured specific images. Privacy-by-design.
-#### 🚀 Current Status: Phase 1
+### Novel Systems Engineering, LLC
+
+Novel Systems Engineering is my consulting and product development practice, specializing in novel hardware and systems integration. The current flagship project is a dual lidar array for maritime applications.
+
+**Repo:** [NovelSystems/novelsystems.github.io](https://github.com/NovelSystems/novelsystems.github.io)
+
+### The Birthmark Standard Foundation
+
+Building open-source infrastructure for cryptographic proof that photos came from real cameras, not AI generation. As Executive Director & Founder, I lead the development of hardware-backed authentication using camera sensor fingerprints and a consortium blockchain maintained by mission-driven journalism organizations—permanent, verifiable proof that specific camera hardware captured specific images. Privacy-by-design.
+
+#### Current Status: Phase 1
 Building proof-of-concept with Raspberry Pi + camera hardware to validate the complete cryptographic pipeline.
 
 **Tech Stack:** Python, FastAPI, PostgreSQL, Cosmos SDK blockchain, TPM/Secure Element
-#### 🤝 Seeking
+
+#### Seeking
 * **Coalition Partners:** Journalism organizations, fact-checking groups (e.g., RSF, NPPA, IFCN, CPJ, Bellingcat)
 * **Funding:** Assembling grant applications to Mozilla, Craig Newmark Philanthropies, Knight Foundation
-### 📧 Contact
+
+**Repo:** [Birthmark-Standard/Birthmark](https://github.com/Birthmark-Standard/Birthmark)
+
+### Contact
 * Email: samryan.pdx@proton.me
 * LinkedIn: [linkedin.com/in/samuelcryan](https://linkedin.com/in/samuelcryan)
-* Repos: [Birthmark-Standard/Birthmark](https://github.com/Birthmark-Standard/Birthmark) | [NovelSystems/novelsystems.github.io](https://github.com/NovelSystems/novelsystems.github.io)
