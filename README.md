@@ -4,7 +4,7 @@ M.Sc. Semiconductor Process Engineering with 15+ years of engineering experience
 
 ---
 
-<img src="docs/novel_systems_logo3.png" alt="Novel Systems Engineering" width="300"/>
+<img src="docs/novel_systems_logo3.png" alt="Novel Systems Engineering" width="150"/>
 
 ### Novel Systems Engineering, LLC
 
@@ -14,7 +14,7 @@ Novel Systems Engineering is my consulting and product development practice, spe
 
 ---
 
-<img src="docs/birthmark_standard_logo_swoosh.png" alt="The Birthmark Standard Foundation" width="300"/>
+<img src="docs/birthmark_standard_logo_swoosh.png" alt="The Birthmark Standard Foundation" width="150"/>
 
 ### The Birthmark Standard Foundation
 
