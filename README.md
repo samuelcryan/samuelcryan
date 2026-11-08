@@ -4,7 +4,7 @@ M.Sc. Semiconductor Process Engineering with 15+ years of engineering experience
 
 ---
 
-<img src="docs/novel_systems_logo3.png" alt="Novel Systems Engineering" width="150"/>
+<img src="docs/novel_systems_logo.png" alt="Novel Systems Engineering" width="150"/>
 
 ### Novel Systems Engineering, LLC
 
